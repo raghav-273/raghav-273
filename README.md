@@ -1,71 +1,40 @@
-<h1 align="center">Raghav</h1>
+<h1 align="center">Raghav</h1><p align="center">
+<br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=problem+solving+%3E+writing+code;AI/ML+%2F+CV+%2F+NLP;building+systems+that+actually+work" />
+</p>
+<br/>
 <p align="center">
-    building things that (mostly) work • breaking things that don’t
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,opencv,flask,docker,git,pytorch" />
 </p>
 <p align="center">
-  <a href="https://yourportfolio.dev">portfolio</a> /
-  <a href="https://github.com/yourusername">github</a> /
-  <a href="https://linkedin.com/in/yourprofile">linkedin</a> /
-  <a href="https://leetcode.com/yourprofile">leetcode</a>
+  Computer Vision • NLP • Machine Learning • Artificial Intelligence 
 </p>
 
-⸻
+<p align="center">
+  <a href="https://linkedin.com/in/raghavmish273">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="25" />
+  </a>
+</p>
 
-about
-	•	cse (ai), focused on systems that scale and models that don’t hallucinate too hard
-	•	spend most of my time between dsa, ml, and building actual products
-	•	currently optimizing for: clarity, speed, and fewer stupid bugs
 
-⸻
+---
 
-selected work
+## About Me
 
-ai resume analyzer
-nlp-based system to evaluate and rank resumes
-→ python, fastapi, ml
-→ deployed, handles real inputs
+- CSE(AI), focused on problem solving & systems thinking
+- Strong foundation in AI-ML, Neural Networks, and Pattern Recognition  
+- Interest in computer vision and NLP 
+- Spend most of my time between DSA, ML concepts, and building practical systems  
+- Academically consistent, but more interested in how things actually work 
 
-live: https://yourproject.dev
-code: https://github.com/yourrepo
+---
 
-⸻
+## currently
 
-analytics dashboard
-real-time data visualization + backend system
-→ react, node, mongodb
-→ auth, apis, clean structure
-
-live: https://yourproject.dev
-code: https://github.com/yourrepo
-
-⸻
-
-problem solving
-	•	~250+ problems solved
-	•	comfortable with trees, dp, graphs
-	•	still get humbled by edge cases
-
-leetcode: https://leetcode.com/yourprofile
-
-⸻
-
-stack
-
-cpp / python / javascript
-react / node / fastapi
-git / docker / mongodb
-
-⸻
-
-currently
-	•	building an attention tracking system
-	•	learning how systems break at scale
-
-⸻
-
-contact
-
-linkedin: https://linkedin.com/in/yourprofile
-email: youremail@gmail.com
-
-⸻
+- building an attention tracking system (computer vision)  
+- exploring how models behave in real-world, noisy scenarios  
+- improving system design and robustness  
