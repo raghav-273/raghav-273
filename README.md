@@ -1,4 +1,3 @@
-<h1 align="center">Raghav</h1><p align="center">
 <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=problem+solving+%3E+writing+code;AI/ML+%2F+CV+%2F+NLP;building+systems+that+actually+work" />
 </p>
