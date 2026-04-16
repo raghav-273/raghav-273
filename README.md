@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Raghav 👋
 
-<!--
-**raghav-273/raghav-273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (AI) student focused on building intelligent systems and scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧠 AI Resume Analyzer  
+- NLP-based system to evaluate and rank resumes  
+- Built with Python, FastAPI, and ML models  
+- Deployed with a custom domain  
+
+🔗 Live: https://yourproject.dev  
+🔗 Code: https://github.com/yourrepo  
+
+---
+
+### 📊 Full-Stack Analytics Dashboard  
+- Real-time data visualization dashboard  
+- Built with React, Node.js, MongoDB  
+- REST APIs + authentication system  
+
+🔗 Live: https://yourproject.dev  
+🔗 Code: https://github.com/yourrepo  
+
+---
+
+## 🧩 Problem Solving
+
+- Solved 250+ DSA problems  
+- Strong in Arrays, Sliding Window, Trees, and DP  
+
+🔗 LeetCode: https://leetcode.com/yourprofile  
+
+---
+
+## 🛠️ Tech Stack
+
+Languages: C++, Python, JavaScript  
+Frameworks: React, Node.js, FastAPI  
+Tools: Git, Docker, MongoDB  
+
+---
+
+## 🧪 Currently Building
+
+- AI-based attention tracking system  
+- Exploring system design and scalable architectures  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Portfolio: https://yourdomain.dev  
+
+---
